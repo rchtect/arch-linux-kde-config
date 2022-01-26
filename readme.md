@@ -24,6 +24,16 @@
 
 `sudo cp ./kwin.sh ~/.config/plasma-workspace/env/`
 
+`sudo nano /etc/mkinitcpio.conf`
+
+`nvidia-settings --assign CurrentMetaMode="nvidia-auto-select +0+0 { ForceFullCompositionPipeline = On }"`
+
+add `MODULES="nvidia nvidia_modeset nvidia_uvm nvidia_drm"`
+
+`sudo mkinitcpio -P`
+
+`sudo pacman -S nvidia-hook`
+
 **Choosing Linux instead of Linux-LTS in GRUB**
 
 `sudo nano /etc/default/grub`
