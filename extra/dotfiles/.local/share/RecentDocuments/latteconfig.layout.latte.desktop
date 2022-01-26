@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=latteconfig.layout.latte
+Type=Link
+URL[$e]=file:$HOME/.config/latte/latteconfig.layout.latte
+X-KDE-LastOpenedWith=org.kde.kate

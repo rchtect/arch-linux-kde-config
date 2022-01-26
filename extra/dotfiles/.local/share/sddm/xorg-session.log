@@ -1,0 +1,39 @@
+kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 581, result = 0
+kdeinit5: opened connection to :0
+kdeinit5: Got SETENV 'XCURSOR_THEME=WhiteSur-cursors' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_SIZE=24' from launcher.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/neo/.gtkrc:/home/neo/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/neo/.gtkrc-2.0:/home/neo/.config/gtkrc-2.0' from launcher.
+xsettingsd: Loaded 11 settings from /home/neo/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Loaded 0 settings from /home/neo/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Created window 0x1600001 on screen 0 with timestamp 19741
+xsettingsd: Loaded 0 settings from /home/neo/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Created window 0x1600001 on screen 0 with timestamp 19754
+xsettingsd: Loaded 0 settings from /home/neo/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Created window 0x1600001 on screen 0 with timestamp 19770
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+xsettingsd: Reloading configuration
+xsettingsd: Loaded 11 settings from /home/neo/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Reloading configuration
+xsettingsd: Loaded 11 settings from /home/neo/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Reloading configuration
+xsettingsd: Loaded 11 settings from /home/neo/.config/xsettingsd/xsettingsd.conf
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/matrix:@/tmp/.ICE-unix/639,unix/matrix:/tmp/.ICE-unix/639' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/matrix:@/tmp/.ICE-unix/639,unix/matrix:/tmp/.ICE-unix/639' from launcher.
+Tracker-Message: 17:39:52.032: Initializing...
+Tracker-Message: 17:39:52.040: Retrieving and scheduling feeds...
+Tracker-Message: 17:39:52.043: No feeds set up, nothing more to do
+
+** (org.gnome.Nautilus:1317): WARNING **: 17:40:05.644: Unable to get contents of the bookmarks file: Error opening file /home/neo/.gtk-bookmarks: No such file or directory
+(node:1432) DeprecationWarning: file property is deprecated and will be removed in v5.
+(node:1432) DeprecationWarning: init() is deprecated and will be removed in v5.
+17:40:33.083 › Failed to decrypt secure keys: Error: The name org.freedesktop.secrets was not provided by any .service files
+(node:1485) DeprecationWarning: file property is deprecated and will be removed in v5.
+(node:1485) DeprecationWarning: init() is deprecated and will be removed in v5.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(org.gnome.Nautilus:1317): Tracker-WARNING **: 17:47:13.083: Could not delete '.meta.isrunning': No such file or directory

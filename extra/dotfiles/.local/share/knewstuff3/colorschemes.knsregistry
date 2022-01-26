@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Monterey color scheme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1567570</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>19565</downloads>
+  <installedfile>/home/neo/.local/share/color-schemes/MontereyDark.colors</installedfile>
+  <installedfile>/home/neo/.local/share/color-schemes/Monterey.colors</installedfile>
+  <id>1567570</id>
+  <releasedate>2021-08-02</releasedate>
+  <summary>Monterey theme for KDE Plasma</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1567570/d55ff0c0fc383505f22b7ae0f2db01c194f62b4a7c37715ce31d138b9fed48d4382a.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1567570/d55ff0c0fc383505f22b7ae0f2db01c194f62b4a7c37715ce31d138b9fed48d4382a.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mjc4ODgzNzQiLCJvIjoiMSIsInMiOiI4YTY3ODliYWE1MjVlMDdhYTBlMzE1NTFmOWRjZGI1MzRiNWQ2YWU0ODU4MWY1NTZmM2RhZmZkNjJkMTUxNmYwNWIxMzNjODBiMTM5MGUwZTJjMTE3ZTAyNGM0YjkxNzI0ZjRhMDYxMjQzZTY3ZDljM2Y5ZTM3MTI1ZjI1NGRmYiIsInQiOjE2NDMyMTcwMTIsInN0ZnAiOm51bGwsInN0aXAiOiIxNTUuNC4xMzIuMTg1In0.MGlaeJHfJ-aAUf80BkuUqqqGVQJ__CJ-K1DnKxjk9go/color-schemes.tar.xz</payload>
+  <tags>gplv3,linux,kde,colorscheme,theme,original-product,plasma,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>WhiteSur Color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1398831</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>89204</downloads>
+  <installedfile>/home/neo/.local/share/color-schemes/WhiteSurDark.colors</installedfile>
+  <installedfile>/home/neo/.local/share/color-schemes/WhiteSur.colors</installedfile>
+  <id>1398831</id>
+  <releasedate>2021-07-14</releasedate>
+  <summary>MacOS big sur theme for kde plasma</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1398831/129887a42b22bb843754c81631903b901c02.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1398831/129887a42b22bb843754c81631903b901c02.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjYyMjU2NjIiLCJvIjoiMSIsInMiOiIwYmNiODQ1ZGUxZGI1M2IyMWFjMzliZDQ1OThhMGRlMzZhODFlYzAzZmFlZjM4ZWEyMjFhYmUyNTgzNzdiMTM0ZGU4NWU1NzJkMzM0NDY2NzhmNGQ2YjI5NGYyMmIzODcwOWY3ZDFmMjAwNmE0MDczMGY2OWE3NDJjMjM4ODQ1ZCIsInQiOjE2NDMyMTc1NzAsInN0ZnAiOm51bGwsInN0aXAiOiIxNTUuNC4xMzIuMTg1In0.jInmjqZ7V_CXFuAmFCOmzJ2vL0WYnKl9zlgyEF7PL-E/WhiteSur.tar.xz</payload>
+  <tags>theme,unix,plasma,modification-product,linux,kde,gplv3,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

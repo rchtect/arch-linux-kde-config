@@ -1,0 +1,63 @@
+2022-01-26T18:05:09.008Z - info: [ui] [AppStore] loading 0 repositories from store
+2022-01-26T18:05:09.045Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-26T18:05:09.048Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-26T18:05:09.115Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-26T18:05:09.119Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-26T18:05:09.123Z - info: [ui] launching: 2.9.6-linux1 (Linux 5.16.2-arch1-1)
+2022-01-26T18:05:09.123Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-01-26T18:05:09.155Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-26T18:05:09.232Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-26T18:05:09.234Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-26T18:05:09.240Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-26T18:05:09.345Z - info: [ui] Opt in reported.
+2022-01-26T18:05:11.050Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2022-01-26T18:05:11.053Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-01-26T18:05:11.059Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=924afd51-99e9-4986-b391-a7ac5a23be31
+2022-01-26T18:05:11.061Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2022-01-26T18:05:11.296Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-01-26T18:05:14.884Z - info: [main] Received possible protocol arguments: 2
+2022-01-26T18:05:14.884Z - info: [main] Processing protocol url
+2022-01-26T18:05:14.885Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-01-26T18:05:14.888Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-01-26T18:05:14.892Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-01-26T18:05:15.749Z - info: [ui] [SignInStore] account resolved
+2022-01-26T18:05:15.750Z - info: [ui] [AppStore] adding account rchtect (rchtect) to store
+2022-01-26T18:05:15.755Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2022-01-26T18:05:15.833Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-26T18:05:15.986Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-26T18:05:15.990Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-26T18:05:22.469Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-26T18:05:22.491Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-26T18:05:23.040Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-26T18:05:44.954Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/rchtect/arch-linux-kde-config.git - rchtect (has token)
+2022-01-26T18:05:45.661Z - info: [ui] [AppStore] adding repository at /home/neo/Documents/GitHub/arch-linux-kde-config to store
+2022-01-26T18:06:28.842Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 4.242s)
+2022-01-26T18:06:28.851Z - error: [ui] `git update-index --add --remove --replace -z --stdin` exited with an unexpected code: 128.
+stderr:
+error: invalid path 'whitesur-gtk/'
+error: whitesur-gtk/: cannot add to the index - missing --add option?
+fatal: Unable to process path whitesur-gtk/
+
+2022-01-26T18:06:28.852Z - info: [ui] [Timing] Action 'create commit' for 'rchtect/arch-linux-kde-config' took 4.270s
+2022-01-26T18:06:42.319Z - error: [ui] `git update-index --add --remove --replace -z --stdin` exited with an unexpected code: 128.
+stderr:
+error: invalid path 'whitesur-gtk/'
+error: whitesur-gtk/: cannot add to the index - missing --add option?
+fatal: Unable to process path whitesur-gtk/
+
+2022-01-26T18:06:42.326Z - info: [ui] [Timing] Action 'create commit' for 'rchtect/arch-linux-kde-config' took 0.495s
+2022-01-26T18:06:53.361Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2022-01-26T18:06:55.159Z - info: [ui] [Timing] Action 'create commit' for 'rchtect/arch-linux-kde-config' took 0.522s
+2022-01-26T18:06:59.089Z - info: [ui] [Timing] Action 'checkout branch from list' for 'rchtect/arch-linux-kde-config' took 0.001s
+2022-01-26T18:06:59.938Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: arch-linux-kde-config - rchtect (has token)
+2022-01-26T18:07:15.162Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin main:main --progress (took 15.169s)
+2022-01-26T18:07:29.767Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.2s of which 0.0s paused, total 0.2s
+2022-01-26T18:11:19.825Z - error: [ui] Highlighter worked failed for old contents
+Error: timed out
+    at /home/neo/webpack:/app/src/lib/highlighter/worker.ts:85:14
+2022-01-26T18:11:19.828Z - error: [ui] Highlighter worked failed for new contents
+Error: timed out
+    at /home/neo/webpack:/app/src/lib/highlighter/worker.ts:85:14
+2022-01-26T18:11:31.841Z - info: [ui] [Timing] Action 'create commit' for 'rchtect/arch-linux-kde-config' took 0.105s
+2022-01-26T18:11:33.580Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: arch-linux-kde-config - rchtect (has token)

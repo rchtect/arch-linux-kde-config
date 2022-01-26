@@ -1,0 +1,17 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+HDMI-0 XPosition 1920x1080=582
+HDMI-0 YPosition 1920x1080=191
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABIAAAAKOAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Documents/arch-linux-kde/readme.md
+File2[$e]=$HOME/.nano/nanorc
+File3[$e]=$HOME/.config/latte/latteconfig.layout.latte
+Name1[$e]=readme.md
+Name2[$e]=nanorc
+Name3[$e]=latteconfig.layout.latte

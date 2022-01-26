@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=3 exec:///usr/bin/nvidia-settings,1 exec:///usr/bin/kcmshell5 breezestyleconfig,18 exec:///usr/bin/konsole,1 exec:///usr/bin/systemsettings5 kcm_style,1 exec:///usr/bin/systemsettings5 kcm_fonts,2 exec:///usr/bin/systemsettings5,1 exec:///usr/bin/systemsettings5 componentchooser,1 exec:///usr/bin/nautilus --new-window,3 exec:///usr/lib/marktext/marktext
+
+[PlasmaRunnerManager][History]
+ac1075b5-09a3-4060-8aed-f9e9d2b32090=o

@@ -1,0 +1,59 @@
+[file:///home/neo/.config/latte/latteconfig.layout.latte]
+Bookmarks=
+Checksum=023fa69fe914938fc9d8fa79479a83ae442bd1c1
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,1,26,17,46,42.587
+URL=file:///home/neo/.config/latte/latteconfig.layout.latte
+
+[file:///home/neo/.local/share/konsole/Config.profile]
+Bookmarks=
+Checksum=7aa3aaec73e0afa5d25375efddddedf0ff16a18e
+Encoding=UTF-8
+Highlighting=Kconfig
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Kconfig
+Mode Set By User=false
+Time=2022,1,26,16,2,30.649
+URL=file:///home/neo/.local/share/konsole/Config.profile
+
+[file:///home/neo/.local/share/konsole/Profile 1.profile]
+Bookmarks=
+Checksum=7aa3aaec73e0afa5d25375efddddedf0ff16a18e
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,1,26,16,0,59.541
+URL=file:///home/neo/.local/share/konsole/Profile 1.profile
+
+[file:///home/neo/Documents/Arch Linux (KDE)/.zshrc]
+Bookmarks=
+Checksum=88b3e828740f9ddc233a39c34b9ef1df995f1976
+Encoding=UTF-8
+Highlighting=Zsh
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Zsh
+Mode Set By User=false
+Time=2022,1,26,15,42,35.714
+URL=file:///home/neo/Documents/Arch Linux (KDE)/.zshrc
+
+[file:///home/neo/Documents/arch-linux-kde/.zshrc]
+Bookmarks=
+Checksum=166ef42c89bd61bbf738f811b2d61bd8e7824b42
+Encoding=UTF-8
+Highlighting=Zsh
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Zsh
+Mode Set By User=false
+Time=2022,1,26,15,53,32.494
+URL=file:///home/neo/Documents/arch-linux-kde/.zshrc

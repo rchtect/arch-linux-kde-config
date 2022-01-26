@@ -1,0 +1,13 @@
+[General]
+Version=201
+ViewPropsTimestamp=2022,1,26,15,43,16.954
+
+[KPropertiesDialog]
+HDMI-0 Height 1920x1080=616
+HDMI-0 Width 1920x1080=438
+
+[MainWindow]
+HDMI-0 XPosition 1920x1080=278
+HDMI-0 YPosition 1920x1080=233
+MenuBar=Disabled
+ToolBarsMovable=Disabled

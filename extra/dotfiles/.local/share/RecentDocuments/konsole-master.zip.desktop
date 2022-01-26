@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-zip
+Name=konsole-master.zip
+Type=Link
+URL[$e]=file:$HOME/Downloads/konsole-master.zip
+X-KDE-LastOpenedWith=org.kde.ark

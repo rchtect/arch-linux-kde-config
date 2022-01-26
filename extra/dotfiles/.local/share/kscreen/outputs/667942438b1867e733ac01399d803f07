@@ -1,0 +1,19 @@
+{
+    "id": "667942438b1867e733ac01399d803f07",
+    "metadata": {
+        "fullname": "xrandr-Acer Technologies-KG271 P-59850282",
+        "name": "HDMI-0"
+    },
+    "mode": {
+        "refresh": 144.00076293945312,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}

@@ -2,6 +2,8 @@
 
 (open terminal in the folder)
 
+(./extra/dotfiles for the dotfiles configuration)
+
 ## **Installing nvidia drivers:**
 
 `sudo pacman -S nvidia-installer-dkms`

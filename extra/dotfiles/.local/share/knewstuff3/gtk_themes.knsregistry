@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="135">
+  <name>WhiteSur Gtk Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1403328</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>93</rating>
+  <downloads>68108</downloads>
+  <installedfile>/home/neo/.themes/WhiteSur-dark/*</installedfile>
+  <id>1403328</id>
+  <releasedate>2022-01-01</releasedate>
+  <summary>MacOS Big Sur like theme for Gnome desktops&lt;br />
+-----------------------&lt;br />
+&lt;strong>TIPS:&lt;/strong>&lt;br />
+Nvidia users are recommended to use the solid version&lt;br />
+-----------------------&lt;br />
+&lt;strong>Kde theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1398840/" target="_blank"...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1403328/fada4d24285aea3004c357d630aefdb8653b.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1403328/fada4d24285aea3004c357d630aefdb8653b.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDA5OTc1MDUiLCJvIjoiMSIsInMiOiIyNzJhMTIzYjBmYTYxMjAwYTc3M2Q0ZDM2YmQ4YWU2ZjYzYWY3NzBmNTI4NzQ3NjE1ZWRjMzU2ODU1MjM4YzI0YzIwNTgwNjAxYTQ2MTk3MWQ1YTEzMjI5OWNkN2RjYWY5NGM5NzE2ODg0OWI3MmEyMzA3NzlmOGMyM2JiMWI1MCIsInQiOjE2NDMyMTc3NTgsInN0ZnAiOm51bGwsInN0aXAiOiIxNTUuNC4xMzIuMTg1In0.kQBTdvSj9nQVZkUzXU8XKpBhOvDg5ZL2mQJPkEXjFlM/WhiteSur-dark.tar.xz</payload>
+  <tags>gplv3,gnome,linux,theme,original-product,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

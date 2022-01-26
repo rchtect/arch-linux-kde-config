@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-html
+Name=authorize
+Type=Link
+URL[$e]=https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo user workflow&state=924afd51-99e9-4986-b391-a7ac5a23be31
+X-KDE-LastOpenedWith=firefox

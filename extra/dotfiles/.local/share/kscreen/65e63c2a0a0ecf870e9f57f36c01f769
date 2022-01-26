@@ -1,0 +1,52 @@
+[
+    {
+        "enabled": true,
+        "id": "667942438b1867e733ac01399d803f07",
+        "metadata": {
+            "fullname": "xrandr-Acer Technologies-KG271 P-59850282",
+            "name": "HDMI-0"
+        },
+        "mode": {
+            "refresh": 144.00076293945312,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1,
+        "vrrpolicy": 2
+    },
+    {
+        "enabled": false,
+        "id": "d4448a972e072518d5253e23cfeeb989",
+        "metadata": {
+            "fullname": "xrandr-AU Optronics",
+            "name": "DP-0"
+        },
+        "mode": {
+            "refresh": 60.02973556518555,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": false,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1,
+        "vrrpolicy": 2
+    }
+]

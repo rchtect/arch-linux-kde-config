@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/neo/Downloads/xorg.conf" added="2022-01-26T14:43:13.256883Z" modified="2022-01-26T14:43:13.256892Z" visited="2022-01-26T14:43:13.256884Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="nvidia-settings" exec="&apos;nvidia-settings %u&apos;" modified="2022-01-26T14:43:13.256887Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo/Documents/Linux%20Arch%20setup.md" added="2022-01-26T15:08:03.764784Z" modified="2022-01-26T16:36:33.896328Z" visited="2022-01-26T15:08:03.764786Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="marktext" exec="&apos;marktext %u&apos;" modified="2022-01-26T16:16:38.887269Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/lib/marktext/marktext %F&apos;" modified="2022-01-26T16:36:33.896321Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo/Downloads/iOS14.6_Emoji_v1.5.zip" added="2022-01-26T15:09:21.662297Z" modified="2022-01-26T15:09:21.662302Z" visited="2022-01-26T15:09:21.662298Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-26T15:09:21.662299Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo/Downloads/San-Francisco-Pro-Fonts-master.zip" added="2022-01-26T15:09:59.043291Z" modified="2022-01-26T15:09:59.043297Z" visited="2022-01-26T15:09:59.043291Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-26T15:09:59.043294Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo/Documents/Arch%20Linux%20Setup/xorg.conf" added="2022-01-26T15:19:37.057893Z" modified="2022-01-26T15:19:37.057904Z" visited="2022-01-26T15:19:37.057894Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="nvidia-settings" exec="&apos;nvidia-settings %u&apos;" modified="2022-01-26T15:19:37.057899Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo/Downloads/MesloLGS%20NF%20Regular.ttf" added="2022-01-26T15:49:07.458547Z" modified="2022-01-26T15:49:07.458551Z" visited="2022-01-26T15:49:07.458548Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-26T15:49:07.458549Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo/Downloads/MesloLGS%20NF%20Bold.ttf" added="2022-01-26T15:49:09.357705Z" modified="2022-01-26T15:49:09.357713Z" visited="2022-01-26T15:49:09.357706Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-26T15:49:09.357709Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo/Downloads/MesloLGS%20NF%20Italic.ttf" added="2022-01-26T15:49:13.992528Z" modified="2022-01-26T15:49:13.992533Z" visited="2022-01-26T15:49:13.992528Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-26T15:49:13.992530Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo/Downloads/MesloLGS%20NF%20Bold%20Italic.ttf" added="2022-01-26T15:49:18.200986Z" modified="2022-01-26T15:49:18.200996Z" visited="2022-01-26T15:49:18.200988Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-26T15:49:18.200992Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo/Downloads/konsole-master.zip" added="2022-01-26T15:55:30.160365Z" modified="2022-01-26T15:55:30.160370Z" visited="2022-01-26T15:55:30.160366Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-26T15:55:30.160368Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo/Documents/arch-linux-kde/readme.md" added="2022-01-26T16:36:41.124048Z" modified="2022-01-26T16:40:31.680104Z" visited="2022-01-26T16:36:41.124053Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/lib/marktext/marktext %F&apos;" modified="2022-01-26T16:40:31.680094Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo/.nano/nanorc" added="2022-01-26T17:08:53.059290Z" modified="2022-01-26T17:08:53.059302Z" visited="2022-01-26T17:08:53.059291Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;okular %U&apos;" modified="2022-01-26T17:08:53.059297Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo/.config/latte/latteconfig.layout.latte" added="2022-01-26T17:46:01.050763Z" modified="2022-01-26T17:46:10.038227Z" visited="2022-01-26T17:46:01.050764Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kate -b %U&apos;" modified="2022-01-26T17:46:10.038221Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo/Documents/GitHub/arch-linux-kde-config/readme.md" added="2022-01-26T18:07:47.984036Z" modified="2022-01-26T18:07:47.984062Z" visited="2022-01-26T18:07:47.984044Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/lib/marktext/marktext %F&apos;" modified="2022-01-26T18:07:47.984046Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neo/Documents/GitHub/arch-linux-kde-config/dotfiles" added="2022-01-26T18:14:55.886341Z" modified="2022-01-26T18:15:01.918252Z" visited="2022-01-26T18:14:55.886342Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-01-26T18:15:01.918250Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

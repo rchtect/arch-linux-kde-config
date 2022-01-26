@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>Monterey wallpapers</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1567576</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>20074</downloads>
+  <installedfile>/home/neo/.local/share/wallpapers/gIZpSM-wallpapers/*</installedfile>
+  <id>1567576</id>
+  <releasedate>2021-08-02</releasedate>
+  <summary>Monterey wallpapers for KDE Plasma</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1567576/5159b059f65da22aeb985a1231eff3cab44d31864a1969ba93d25a10df142946e0d8.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1567576/5159b059f65da22aeb985a1231eff3cab44d31864a1969ba93d25a10df142946e0d8.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mjc4ODk0MDQiLCJvIjoiMSIsInMiOiJmYjIwMmEwNzRlYmIwMzkzYmIwNzYwNmJhOTU3MWExMTVjNDJlZDczNjMzM2NjOGM3MmMwMDkzNjEyZjI4ZDJkZDAwMjcyMmZlMjMxNmQ3NTM0YzU2NGQ4NjMwYzBmNDhhMGNkZTcwODhiYTlmZTU4YjcwMzkxYmQxMGM4YjAxMSIsInQiOjE2NDMyMTcwMjMsInN0ZnAiOm51bGwsInN0aXAiOiIxNTUuNC4xMzIuMTg1In0.br8niQB_cgTs9JdE7x_fD-AQKmRfnsb611iPj-iija4/wallpapers.tar.xz</payload>
+  <tags>efi,plasma,artwork,wallpaper,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>WhiteSur Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1398833</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>66</rating>
+  <downloads>405170</downloads>
+  <installedfile>/home/neo/.local/share/wallpapers/WhiteSur/*</installedfile>
+  <id>1398833</id>
+  <releasedate>2020-07-01</releasedate>
+  <summary>MacOS big sur theme for kde plasma</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1398833/3fdc0e89e55c612da93893fd2162539284231.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1398833/3fdc0e89e55c612da93893fd2162539284231.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTM1ODg5MzciLCJvIjoiMSIsInMiOiIxNmE4YTdiMmRjOWU4YjE5MjNkZTI2N2Y5Mzg3YjVkZTZiZmM1MTAzOGRlZDY0MjVmM2NhNzcxYTQzNDdiNWUwMTZiNzUxNDIxMmJkZjQyMmNlYWQ5MWMyYjdlZjk1NmMzYmFlZWZkNDdlMmY4ZGY2MWI1YjE0MTliOTRlYWFiYSIsInQiOjE2NDMyMTc1NzgsInN0ZnAiOm51bGwsInN0aXAiOiIxNTUuNC4xMzIuMTg1In0.7L1z6YD2be0gzbTum5vprP4qJT8bFuIxemFeXBumvMc/WhiteSur.tar.xz</payload>
+  <tags>cc-by-sa,plasma,original-product,wallpaper,artwork,kde</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

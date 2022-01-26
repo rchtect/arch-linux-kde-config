@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>WhiteSur dark plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1400409</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>78</rating>
+  <downloads>5487</downloads>
+  <installedfile>/home/neo/.local/share/plasma/desktoptheme/WhiteSur-dark</installedfile>
+  <id>1400409</id>
+  <releasedate>2022-01-18</releasedate>
+  <summary>MacOS big sur theme for kde plasma&lt;br />
+-----------------------&lt;br />
+&lt;strong>Kvantum theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1398841/" target="_blank" rel="nofollow">https://www.pling.com/p/1398841/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Icon theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1405756/" target="_blank" rel="nofollow">https://www.pling.com/p/1405756/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Cursors theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1355701/" target="_blank" rel="nofollow">https://www.pling.com/p/1355701/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Wallpaper:&lt;/strong> &lt;a href="https://www.pling.com/p/1398833/" target="_blank" rel="nofollow">https://www.pling.com/p/1398833/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1400409/3e7b3166dbee0a004ed4a44a7e17218fbb19.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1400409/3e7b3166dbee0a004ed4a44a7e17218fbb19.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDI1MjEzNzciLCJvIjoiMSIsInMiOiI4Yjg4OGFmYWUyY2I1ZjI2MTgxNmY3ZGQzODFmMjM3MTNlM2UyMjVjMWU2MTE3NmYzYTcwZWRhZWY0MGI0NmJkZmQwNjIwOTdlOGU3MGU0ZjAxYWIyZWQ4Nzc0YmUxYzJmMzdjYzQ0NGE0NzM3MGY4ZTEwZjBjOTZiOWI4ZTliZiIsInQiOjE2NDMyMTc1NzIsInN0ZnAiOm51bGwsInN0aXAiOiIxNTUuNC4xMzIuMTg1In0.lu_r9k4qxXDf06-9iivWRVxeq5gcWeB67CViso-u2vM/WhiteSur-dark.tar.xz</payload>
+  <tags>theme,plasma,original-product,unix,kde,gplv3,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Monterey plasma dark theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1567587</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>2731</downloads>
+  <installedfile>/home/neo/.local/share/plasma/desktoptheme/Monterey-dark</installedfile>
+  <id>1567587</id>
+  <releasedate>2022-01-04</releasedate>
+  <summary>Monterey theme for KDE Plasma&lt;br />
+-----------&lt;br />
+Montery kvantum theme: &lt;a href="https://www.pling.com/p/1567581/" target="_blank" rel="nofollow">https://www.pling.com/p/1567581/&lt;/a>&lt;br />
+-----------&lt;br />
+Icon theme: &lt;a href="https://www.gnome-look.org/p/1405756/" target="_blank" rel="nofollow">https://www.gnome-look.org/p/1405756/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1567587/bf3dbb7b05cdcf1f46d94ff13104cc22609b97a60363d466f27dfb4ed52ba85881a3.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1567587/bf3dbb7b05cdcf1f46d94ff13104cc22609b97a60363d466f27dfb4ed52ba85881a3.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDEyODUzODciLCJvIjoiMSIsInMiOiIyMjY2YTEyNDFhMDUxMGRkYjIwODAwZjBlODE2ZGM0M2QzNjU1MDYwZmJlMDM1YjM5OGU2YmY2YmU1ZTY2YWYwMWM0Y2ExOWMxZGUzYzBhMmU0NjgyOWM3OWM1ZjhmNTdjNTQ3N2M5YzdjZGEwYjkyMTYwZDk4ZTk3MGVjNDkyZCIsInQiOjE2NDMyMTcwMTUsInN0ZnAiOm51bGwsInN0aXAiOiIxNTUuNC4xMzIuMTg1In0.a6n7a9mrZOkqc6CIIWrkqI3Sx3yH4Rma4dw-VBTl67A/Monterey-dark.tar.xz</payload>
+  <tags>kde,gplv3,linux,theme,unix,original-product,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
