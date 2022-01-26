@@ -76,8 +76,6 @@
 
 (If nano syntax doesn't work correctly check: [Improved Nano Syntax Highlighting Files](https://github.com/scopatz/nanorc))
 
-
-
 **Setting up KDE**
 
 Install monterey + whitesur global themes
@@ -88,7 +86,9 @@ Install whitesur gtk theme
 
 `yay -S nautilus`
 
-`cd ./whitesur-gtk`
+`git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git ./`
+
+`cd ./WhiteSur-gtk-theme`
 
 `./install.sh`
 
@@ -97,8 +97,6 @@ Install whitesur gtk theme
 `./tweaks.sh -f monterey`
 
 `cd ../`
-
-
 
 **Setting up layout**
 
@@ -116,8 +114,6 @@ her/user-themes/dracula-ulauncher`
 Import `latteconfig.layout.latte` file in Latte program
 
 (If global menu wont run use: yay -S appmenu-gtk-module-git)
-
-
 
 **Installing my preferred applications**
 
