@@ -159,4 +159,7 @@ Import `latteconfig.layout.latte` file in Latte program
 
 (Sync vscode)
 
+**Misc tweaks**
+`sudo micro /etc/systemd/logind.conf`
+`HandleLidSwitchExternalPower=ignore`
 # Done :)
