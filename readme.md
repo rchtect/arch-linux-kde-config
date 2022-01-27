@@ -44,7 +44,7 @@ add `MODULES="nvidia nvidia_modeset nvidia_uvm nvidia_drm"`
 
 **Installing common cli stuff**
 
-`yay -S git npm curl flatpak timeshift-bin`
+`yay -S git npm curl flatpak timeshift-bin appimagelauncher micro polkit-kde-agent`
 
 **Installing Fonts**
 
