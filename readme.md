@@ -1,5 +1,7 @@
 # Arch Linux (KDE) setup
 
+(I dont own the rights to any of the files within the repo, this is purely a guide on how I set up my Linux, credits goes to the rightful owners of mentioned and/or used projects)
+
 (open terminal in the folder)
 
 (./extra/dotfiles for the dotfiles configuration)
@@ -86,6 +88,20 @@ add `MODULES="nvidia nvidia_modeset nvidia_uvm nvidia_drm"`
 
 `echo "include /usr/share/nano-syntax-highlighting/*.nanorc" >> /etc/nanorc`
 
+`sudo yay -S micro`
+
+`git clone https://github.com/dracula/micro.git`
+
+`~/.config/micro/colorschemes/`
+
+`cp ./micro/dracula.micro ~/.config/micro/colorschemes/`
+
+`sudo micro ~/.zshrc`
+
+`export MICRO_TRUECOLOR=1`
+
+`micro` `ctrl + e` `set colorscheme dracula`
+
 (If nano syntax doesn't work correctly check: [Improved Nano Syntax Highlighting Files](https://github.com/scopatz/nanorc))
 
 **Setting up KDE**
@@ -132,6 +148,12 @@ Import `latteconfig.layout.latte` file in Latte program
 `yay -S discord visual-studio-code-bin wine winetricks github-desktop-bin element-desktop obsidian`
 
 `wine /path/to/flstudio`
+
+`sudo rmmod pcspkr`
+
+`sudo nano /etc/profile`
+
+`set bell-style none`
 
 (Install ublock origin, bitwarden and remove uneeded browser configs)
 
