@@ -50,10 +50,11 @@ add `MODULES="nvidia nvidia_modeset nvidia_uvm nvidia_drm"`
 `yay -S git npm curl flatpak timeshift-bin appimagelauncher micro polkit-kde-agent`
 
 **Installing Fonts**
+`mkdir ~/.fonts`
 
-`sudo cp ./.fonts/* ~/`
+`sudo cp ./.fonts/* ~/.fonts/`
 
-`sudo cp ./.fonts.conf ~/.fonts.conf`
+`sudo cp ./.fonts.conf ~/.fonts.conf/`
 
 `sudo fc-cache -fv`
 
