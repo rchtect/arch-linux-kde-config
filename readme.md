@@ -50,34 +50,14 @@ add `MODULES="nvidia nvidia_modeset nvidia_uvm nvidia_drm"`
 `yay -S git npm curl flatpak timeshift-bin appimagelauncher micro polkit-kde-agent`
 
 **Installing Fonts**
+`mkdir ~/.fonts`
 
-`sudo cp ./.fonts/* ~/`
+`sudo cp ./.fonts/* ~/.fonts/`
 
-`sudo cp ./.fonts.conf ~/.fonts.conf`
+`sudo cp ./.fonts.conf ~/.fonts.conf/`
 
 `sudo fc-cache -fv`
 
-`sudo nano ~/.fonts.conf`
-
-`<?xml version="1.0"?>
-<!DOCTYPE fontconfig SYSTEM "fonts.dtd">
-<fontconfig>
-   <alias>
-     <family>sans-serif</family>
-     <prefer>
-       <family>Noto Color Emoji</family>
-       <family>Noto Emoji</family>
-     </prefer>
-   </alias>
-
-   <alias>
-     <family>serif</family>
-     <prefer>
-       <family>Noto Color Emoji</family>
-       <family>Noto Emoji</family>
-     </prefer>
-   </alias>
-</fontconfig>`
 (Enable SF Pro in settings)
 
 **Installing patched JetBrains Mono font**
