@@ -135,8 +135,7 @@ Change window behaviour > window actions to alt key
 
 Remove panel
 
-`git clone https://github.com/dracula/ulauncher.git ~/.config/ulaunc  
-her/user-themes/dracula-ulauncher`
+`git clone https://github.com/dracula/ulauncher.git ~/.config/ulauncher/user-themes/dracula-ulauncher`
 
 Import `latteconfig.layout.latte` file in Latte program
 
