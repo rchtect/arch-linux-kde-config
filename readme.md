@@ -81,7 +81,7 @@ add `MODULES="nvidia nvidia_modeset nvidia_uvm nvidia_drm"`
 
 **Setting up Konsole**
 
-`cp ./Dracula.colorscheme ~/.local/share/konsole`
+`cp ./Dracula.colorscheme ~/.local/share/konsole/`
 
 `cp ./Profile1.profile ~/.local/share/konsole/`
 
