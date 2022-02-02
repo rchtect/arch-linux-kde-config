@@ -111,7 +111,7 @@ Install whitesur gtk theme
 
 `yay -S nautilus`
 
-`git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git ./`
+`git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git ./WhiteSur-gtk-theme`
 
 `cd ./WhiteSur-gtk-theme`
 
