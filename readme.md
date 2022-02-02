@@ -7,9 +7,9 @@
 (./extra/dotfiles for the dotfiles configuration)
 
 ## **Installing nvidia drivers:**
-
+`sudo pacman linux-zen linux-zen-headers`
 `sudo pacman -S nvidia-installer-dkms`
-
+`sudo pacman -S nvidia-dkms-performance`
 `sudo pacman -S linux-lts-headers`
 
 `sudo nvidia-installer-dkms`
@@ -36,7 +36,7 @@ add `MODULES="nvidia nvidia_modeset nvidia_uvm nvidia_drm"`
 
 `sudo pacman -S nvidia-hook`
 
-**Choosing Linux instead of Linux-LTS in GRUB**
+**Choosing Linux-zen instead of Linux-LTS in GRUB**
 
 `sudo nano /etc/default/grub`
 
@@ -80,14 +80,6 @@ add `MODULES="nvidia nvidia_modeset nvidia_uvm nvidia_drm"`
 
 `curl https://raw.githubusercontent.com/scopatz/nanorc/master/install.sh | sh`
 
-`pacman -S nano-syntax-highlighting`
-
-`echo "include ~/.nano/*.nanorc" >> ~/.nanorc`
-
-`su`
-
-`echo "include /usr/share/nano-syntax-highlighting/*.nanorc" >> /etc/nanorc`
-
 `sudo yay -S micro`
 
 `git clone https://github.com/dracula/micro.git`
@@ -101,8 +93,6 @@ add `MODULES="nvidia nvidia_modeset nvidia_uvm nvidia_drm"`
 `export MICRO_TRUECOLOR=1`
 
 `micro` `ctrl + e` `set colorscheme dracula`
-
-(If nano syntax doesn't work correctly check: [Improved Nano Syntax Highlighting Files](https://github.com/scopatz/nanorc))
 
 **Setting up KDE**
 
@@ -125,6 +115,8 @@ Install whitesur gtk theme
 `./tweaks.sh -f monterey`
 
 `cd ../`
+
+(If for some reason I need to use GDM again change display settings in gnome then run `sudo cp ~/.config/monitors.xml ~gdm/.config/`)
 
 **Setting up layout**
 
