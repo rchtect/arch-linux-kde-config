@@ -8,8 +8,11 @@
 
 ## **Installing nvidia drivers:**
 `sudo pacman linux-zen linux-zen-headers`
+
 `sudo pacman -S nvidia-installer-dkms`
+
 `sudo pacman -S nvidia-dkms-performance`
+
 `sudo pacman -S linux-lts-headers`
 
 `sudo nvidia-installer-dkms`
@@ -54,6 +57,27 @@ add `MODULES="nvidia nvidia_modeset nvidia_uvm nvidia_drm"`
 
 `sudo fc-cache -fv`
 
+`sudo nano ~/.fonts.conf`
+
+`<?xml version="1.0"?>
+<!DOCTYPE fontconfig SYSTEM "fonts.dtd">
+<fontconfig>
+   <alias>
+     <family>sans-serif</family>
+     <prefer>
+       <family>Noto Color Emoji</family>
+       <family>Noto Emoji</family>
+     </prefer>
+   </alias>
+
+   <alias>
+     <family>serif</family>
+     <prefer>
+       <family>Noto Color Emoji</family>
+       <family>Noto Emoji</family>
+     </prefer>
+   </alias>
+</fontconfig>`
 (Enable SF Pro in settings)
 
 **Installing patched JetBrains Mono font**
